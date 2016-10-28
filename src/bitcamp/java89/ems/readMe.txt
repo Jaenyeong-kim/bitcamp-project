@@ -1,3 +1,22 @@
+[v0.7]
+구현 기능 :
+=> EduApp 기능을 ClassControl로 이전.
+=> EduApp 메뉴 기능 추가.
+
+산출물 :
+=> EduApp.java
+=> ClassRoom.java
+=> ClassControl
+
+학습 목표 :
+=> 명령어들을 클래스로 분류 시킴. (리팩토링)
+=> 객체지향 설계 방법론 > 고응집 이해
+   High Cohesion > 한클래스는 한가지 역할에 집중.
+   Low Coupling
+=> 메소드나 변수에 대해 접근을 제어하는 방법과 이유를 이해한다.
+
+
+
 [v0.3]
 구현 기능 :
 - 사용자에게 명령어를 입력 받는 프롬프트 기능을 추가.
